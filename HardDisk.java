@@ -14,7 +14,14 @@ public class HardDisk {
 	}
 	public void setBrand(String brand) {
 		Brand = brand;
-	}
 	
-
+	
+	if(amount>0&&amount<300) {
+		amount=amount;
+	}
+	else{
+		System.out.println("ÈÝÁ¿²»¹»Error");
+		
+		}
+	}
 }
