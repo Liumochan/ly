@@ -26,6 +26,6 @@ ly项目仓库
                }
 
 ## 实验结果
-
+![图片](https://p.qlogo.cn/qqmail_head/Rq1QcIyJPlUbj53oyNfE7uyqkYFsXW8kP0LLOV0KR8BfuVv1DFU8Pibvqez26Ek1qRPGwVILvp8Q/0)
 ## 实验感想
    通过本次实验：我对java的基本应用更加的熟练，巩固了java的基础知识。掌握了一个很好用的java学习软件，学会了如何在main方法中创建一个对象，如何调用方法。为以后的学习打下了坚实的基础。
