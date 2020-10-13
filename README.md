@@ -19,12 +19,12 @@ ly项目仓库
 （7）.把本次实验的多个类放置在不同的包中，体会修饰符private的用法.
 ## 核心方法
 if(amount>0&&amount<300) {
-		amount=amount;
-	}
-	else{
-		System.out.println("容量不够Error");
+  amount=amount;
+}
+  else{
+   System.out.println("容量不够Error");
 		
-		}
+}
 ## 实验结果
 
 ## 实验感想
